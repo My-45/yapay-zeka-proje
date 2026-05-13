@@ -7,12 +7,12 @@ Python ve Streamlit kullanılarak geliştirilmiştir.
 
 ## 🚀 Özellikler
 
-- **CV Analizi** — Güçlü yönler ve eksikleri tespit eder
-- **ATS Uyum Analizi** — CV ile iş ilanı uyumunu ölçer  
-- **Kariyer Yolu** — Kısa, orta ve uzun vadeli kariyer önerileri sunar
-- **Mülakat Simülatörü** — CV'ye özel sorular oluşturur ve cevapları değerlendirir
-- **Sohbet** — CV hakkında serbest soru sorulmasına olanak tanır
-
+- **CV Analizi** : Güçlü yönler ve eksikleri tespit eder
+- **ATS Uyum Analizi** : CV ile iş ilanı uyumunu ölçer  
+- **Kariyer Yolu** : Kısa, orta ve uzun vadeli kariyer önerileri sunar
+- **Kurs Önerileri** :Kullanıcıya uygun kurs önerileri verir. (Coursera, Udemy, Btk Akademi)
+- **Sohbet** : CV hakkında serbest soru sorulmasına olanak tanır
+-**Geçmiş** : Geçmişte yapılan analizleri listeler.
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
