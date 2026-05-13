@@ -12,7 +12,7 @@ Python ve Streamlit kullanılarak geliştirilmiştir.
 - **Kariyer Yolu** : Kısa, orta ve uzun vadeli kariyer önerileri sunar
 - **Kurs Önerileri** :Kullanıcıya uygun kurs önerileri verir. (Coursera, Udemy, Btk Akademi)
 - **Sohbet** : CV hakkında serbest soru sorulmasına olanak tanır
--**Geçmiş** : Geçmişte yapılan analizleri listeler.
+- **Geçmiş** : Geçmişte yapılan analizleri listeler.
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
